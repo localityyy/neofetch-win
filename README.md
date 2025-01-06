@@ -22,7 +22,7 @@
 - Press Environment Variables
 - Press on Path and on Edit ![image](https://github.com/user-attachments/assets/d06348d0-74fd-4e21-a979-daba1166fd26)
 - Scroll down and press New
-- Paste in C:\Scripts
+- Paste in C:\Scripts and press enter
 - Press OK and OK.
 - Then download neofetch.py
 - Move neofetch.py to created C:\Scripts
