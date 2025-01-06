@@ -9,13 +9,14 @@
 
 ![image](https://github.com/user-attachments/assets/a3bda514-2b1a-4cde-9182-a521ae95393c)
 
-# Installation (automatic, 4 steps)
+# Installation (automatic, 5 steps, unstable)
 - Download installer.bat
 - Open installer.bat as admin
 - Then download neofetch.py
 - Move neofetch.py to created C:\Scripts
+- Close every cmd and try it!
 
-# Installation (manually, 7 steps)
+# Installation (manually, 8 steps, recommend)
 - Press WIN+R and write ```sysdm.cpl```
 - Then in opened window press Advanced
 - Press Environment Variables
@@ -23,3 +24,4 @@
 - Scroll down and press New
 - Paste in C:\Scripts
 - Press OK and OK.
+- Close every cmd and try it!
