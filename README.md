@@ -10,9 +10,9 @@
 ![image](https://github.com/user-attachments/assets/a3bda514-2b1a-4cde-9182-a521ae95393c)
 
 # Installation (automatic, 5 steps, unstable)
-- Download installer.bat
+- Download [installer.bat](https://github.com/localityyy/neofetch-win/blob/main/installer.bat)
 - Open installer.bat as admin
-- Then download neofetch.py
+- Then download [neofetch.py](https://github.com/localityyy/neofetch-win/blob/main/neofetch.py)
 - Move neofetch.py to created C:\Scripts
 - Close every cmd and try it!
 
@@ -24,6 +24,6 @@
 - Scroll down and press New
 - Paste in C:\Scripts and press enter
 - Press OK and OK.
-- Then download neofetch.py
-- Move neofetch.py to created C:\Scripts
+- Then download [neofetch.py](https://github.com/localityyy/neofetch-win/blob/main/neofetch.py)
+- Move neofetch.py to created ```C:\Scripts```
 - Close every cmd and try it!
