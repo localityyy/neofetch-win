@@ -24,6 +24,8 @@
 - Scroll down and press New
 - Paste in C:\Scripts and press enter
 - Press OK and OK.
+- Create a bat file in ```C:\Scripts``` and name it neofetch.bat
+- Add this line to bat file ```@echo off && py "C:\Scripts\neofetch.py"```
 - Then download [neofetch.py](https://github.com/localityyy/neofetch-win/blob/main/neofetch.py)
 - Move neofetch.py to created ```C:\Scripts```
 - Close every cmd and try it!
