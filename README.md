@@ -24,4 +24,6 @@
 - Scroll down and press New
 - Paste in C:\Scripts
 - Press OK and OK.
+- Then download neofetch.py
+- Move neofetch.py to created C:\Scripts
 - Close every cmd and try it!
